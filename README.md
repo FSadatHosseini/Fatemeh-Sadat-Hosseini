@@ -16,6 +16,7 @@ Currently, I work as a **Research Assistant** at the Iran-England Institute of P
 ### 📚 Key Skills & Tools
 
 | Category | Methods & Tools |
+|----------|----------------|
 | **EEG Analysis** | Signal processing (EEGLAB, MATLAB) |
 | **Systematic Review** | Meta-analysis (CMA-3, R) |
 | **Statistics** | R, SPSS, Python |
