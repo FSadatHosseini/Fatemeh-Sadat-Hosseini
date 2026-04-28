@@ -12,7 +12,7 @@ I use **EEG (EEGLAB/MATLAB)** to study brain activity and **meta-analysis (CMA-3
 
 Currently, I work as a **Research Assistant** at the Iran-England Institute of Psychology.
 
-###  Key Skills & Tools
+### 📚 Key Skills & Tools
 
 | Category | Methods & Tools |
 |----------|----------------|
@@ -21,7 +21,7 @@ Currently, I work as a **Research Assistant** at the Iran-England Institute of P
 | **Statistics** | R, SPSS, Python |
 | **Version Control** | Git, GitHub |
 
-###  Research Interests
+### 🔬 Research Interests
 
 - Cognitive Neuroscience (Memory, Attention, Executive Functions)
 - Sleep & Cognition (OSA, Cognitive Outcomes, EEG Biomarkers)
