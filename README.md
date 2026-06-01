@@ -33,4 +33,3 @@ Currently, I work as a **Research Assistant** at the Iran-England Institute of P
 - **LinkedIn:** [linkedin.com/in/fatemeh-hosseini-4ab812285](https://www.linkedin.com/in/fatemeh-hosseini-4ab812285)
 
 
-*Open to PhD positions and research collaborations.*
